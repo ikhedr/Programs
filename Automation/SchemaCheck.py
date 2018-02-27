@@ -1,4 +1,4 @@
-#Complexity: O(n^2) -> O(n*f) ..where 'n' is number of rows in csv file & 'f' is number of files in the directory
+#Complexity:O(n*f) -> O(n^2) ..where 'n' is number of rows in csv file & 'f' is number of files in the directory
 #Scenario:   
 # We have text files at location “C:/CurrentWeek/”. 
 # Each file contains columns separated by  “|~”.
